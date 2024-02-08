@@ -15049,34 +15049,7 @@ x-flows:
             ^11: >-
               item attributes - populating with valid values will enable better
               discoverability on buyer NPs
-            ^12: >-
-              suggestive enum is
-              https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-            ^13: >-
-              suggestive enum is
-              https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-            ^14: >-
-              suggestive enum is
-              https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-            ^15: >-
-              suggestive enum is
-              https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-            ^16: >-
-              suggestive enum is
-              https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-            ^17: >-
-              suggestive enum is
-              https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-            ^18: >-
-              suggestive enum is
-              https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-            ^19: >-
-              suggestive enum is
-              https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-            ^20: >-
-              suggestive enum is
-              https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-            ^21: >-
+            ^12-21: >-
               suggestive enum is
               https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
             ^22: >-

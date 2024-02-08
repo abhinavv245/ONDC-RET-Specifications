@@ -5,7 +5,7 @@ value:
   [^4]: input type for customization group, enum- "select" (selection by buyer from available customizations based on min/max), "text" (text entered by buyer e.g. for engraving)
   [^5]: enum - "enable", "disable"
   [^6]: timestamp for item event
-  [^7] if variant grouping defined for provider above, this matches id for variant_group definition; if not defined or id is invalid, buyer NPs may choose to display as normal SKU item
+  [^7]: if variant grouping defined for provider above, this matches id for variant_group definition; if not defined or id is invalid, buyer NPs may choose to display as normal SKU item
   [^8]: optional; unique code for item which will be in this format - "type:code" where type is 1 - EAN, 2 - ISBN, 3 - GTIN, 4 - HSN, 5 - UPC, 6 - others
   [^9]: item attributes - populating with valid values will enable better discoverability on buyer NPs
   [^10]: suggestive enum here https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json

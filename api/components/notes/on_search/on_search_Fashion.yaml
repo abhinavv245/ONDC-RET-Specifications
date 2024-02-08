@@ -10,16 +10,7 @@ value:
   [^9]: mapping of category to attribute key is defined https://docs.google.com/spreadsheets/d/1APAvavF_BNbTA89benAlGtv0GuFvpn2b6XXi4lSdTTw/edit#gid=0
   [^10]: date first available
   [^11]: item attributes - populating with valid values will enable better discoverability on buyer NPs
-  [^12]: suggestive enum is https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-  [^13]: suggestive enum is https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-  [^14]: suggestive enum is https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-  [^15]: suggestive enum is https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-  [^16]: suggestive enum is https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-  [^17]: suggestive enum is https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-  [^18]: suggestive enum is https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-  [^19]: suggestive enum is https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-  [^20]: suggestive enum is https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
-  [^21]: suggestive enum is https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
+  [^12-21]: suggestive enum is https://github.com/ONDC-Official/protocol-network-extension/blob/main/enums/retail/fashion/RET12-colour.json
   [^22]: if variant grouping defined for provider above, this matches id for variant_group definition; if not defined or id is invalid, buyer NPs may choose to display as normal SKU item
   [^23]: mapping of category to attribute key is defined https://docs.google.com/spreadsheets/d/1APAvavF_BNbTA89benAlGtv0GuFvpn2b6XXi4lSdTTw/edit#gid=0
   [^24]: date first available
