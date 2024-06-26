@@ -65,6 +65,7 @@ function markdownConverter(selectedOption) {
   let download_url;
 
   selectedOption = toUnderscoreCase(selectedOption);
+  console.log(selectedOption);
   features.forEach((url, name) => {
     console.log(name, selectedOption, url, name === selectedOption)
     if (name === selectedOption) {
@@ -72,7 +73,7 @@ function markdownConverter(selectedOption) {
     }
   });
   const filePath = download_url;
-  
+
   fetch(filePath)
     .then((response) => {
       if (response.ok) {
